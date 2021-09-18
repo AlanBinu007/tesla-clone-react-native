@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/th3c0d3br34ker/tesla-clone.git
+   git clone https://github.com/AlanBinu007/tesla-clone-react-native.git
    ```
 
 2. Install NPM packages
